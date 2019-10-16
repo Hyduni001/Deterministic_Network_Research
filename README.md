@@ -1,5 +1,5 @@
 # Deterministic_Network_Research
-including FlexE、TSN、DetNet and ITU2030 and so on, in continuous update
+
 
 TSN Task Group:http://www.ieee802.org/1/pages/tsn.html  and https://1.ieee802.org/tsn/
 
