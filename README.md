@@ -3,7 +3,8 @@ including FlexE、TSN、DetNet and ITU2030 and so on， In continuous update
 
 TSN Task Group:http://www.ieee802.org/1/pages/tsn.html  and https://1.ieee802.org/tsn/
 
-DetNet Work Group:https://datatracker.ietf.org/wg/detnet/documents/ (文件) and https://datatracker.ietf.org/wg/detnet/meetings/ （会议）
+DetNet Work Group:https://datatracker.ietf.org/wg/detnet/documents/  
+and https://datatracker.ietf.org/wg/detnet/meetings/ 
 
 ITU2030: https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2019101416/Pages/programme.aspx
 
