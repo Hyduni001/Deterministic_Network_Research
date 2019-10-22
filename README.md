@@ -13,6 +13,8 @@ OMNET++ INET库: https://inet.omnetpp.org/  and  https://github.com/inet-framewo
 
 CoRE4INET 实时以太网仿真开源库: https://github.com/CoRE-RG/CoRE4INET and http://sim.core-rg.de/trac/
 
+OMNET++ v5.5使用手册：https://doc.omnetpp.org/omnetpp/manual/
+
 openTSN 开源TSN 环境: https://gitee.com/opentsn/openTSN
 
 中国计算机学会刊物推荐：https://www.ccf.org.cn/xspj/jsjwl/
