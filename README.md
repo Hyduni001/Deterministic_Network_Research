@@ -17,6 +17,23 @@ OMNET++ v5.5使用手册：https://doc.omnetpp.org/omnetpp/manual/
 
 openTSN 开源TSN 环境: https://gitee.com/opentsn/openTSN
 
+Intel TSN for Linux / i210 网卡驱动 开源项目: https://github.com/intel/iotg_tsn_ref_sw  and 
+https://software.intel.com/en-us/articles/adopting-time-sensitive-networking-tsn-for-automation-systems
+
+Starlingx TSN 开源项目: https://wiki.openstack.org/wiki/StarlingX/Networking/TSN
+
+Software TSN-Switch with Linux 技术博客: https://www.frank-durr.de/?cat=72
+
+开源OPAC UA 库: https://github.com/FreeOpcUa
+
+Analog Devices TSN评估套件: https://www.deterministicethernet.com/deterministic-ethernet
+
+TrustNode TSN交换机开发平台:  https://innoroute.com/trustnode_new/
+
+工业互联网 TSN测试平台: https://www.iiconsortium.org/time-sensitive-networks.htm
+
+思科IE4000 TSN商用交换机: https://www.cisco.com/c/en/us/td/docs/switches/lan/cisco_ie4000/tsn/b_tsn_ios_support.html
+
 中国计算机学会刊物推荐：https://www.ccf.org.cn/xspj/jsjwl/
 
 IEEE论文模板：https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/ieee-article-templates/
