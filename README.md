@@ -9,6 +9,8 @@ ITU2030: https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2019101416/Pages/pr
 
 TSN 网络配置工具: https://www.tttech.com/products/industrial/deterministic-networking/network-configuration/slate-xns/
 
+基于SMT的开源TSN自动调度表合成工具 TSNsched: https://github.com/ACassimiro/TSNsched 
+
 OMNET++ INET库: https://inet.omnetpp.org/  and  https://github.com/inet-framework/inet
 
 CoRE4INET 实时以太网仿真开源库: https://github.com/CoRE-RG/CoRE4INET and http://sim.core-rg.de/trac/
